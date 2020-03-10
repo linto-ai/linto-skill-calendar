@@ -18,7 +18,6 @@
 - [demain à 18 heure 30](datetime)
 - [demain à 17 heure](datetime)
 - [demain à 15 heure](datetime)
-
 ##intent|calendar|en
 - [donne](action_list) mon prochain rendez-vous
 - [donne](action_list) moi le prochain événement
