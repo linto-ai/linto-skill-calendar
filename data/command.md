@@ -1,21 +1,12 @@
 ##intent|calendar|fr
-- [donne](action_list) mon prochain rendez-vous
-- [donne](action_list) moi le prochain événement
+- [donne](action_list) moi mon prochain rendez-vous
+- [donne](action_list) moi mon prochain événement
 - [liste](action_list) mon prochain événement
-- [efface](action_delete) moi le prochain événement
-- [efface](action_delete) le prochain événement
+- [efface](action_delete) mon prochain événement
+- [efface](action_delete) le prochain rendez-vous
 - [supprime](action_delete) mon prochain rendez-vous
 - [crée](action_create) l'[événement](evenement)
 - [crée](action_create) un [événement](evenement)
 - [crée](action_create) une [visioconférence](visioconference)
 - [ajoute](action_create) un [événement](evenement)
 - [ajoute](action_create) une [visioconférence](visioconference)
-- [dans 7 heures](datetime)
-- [dans 3 heures](datetime)
-- [5 heures](datetime)
-- [8 heures](datetime)
-- [dans 2 jours à 18 heures 30](datetime)
-- [dans 4 jours à 15 heures 45](datetime)
-- [demain à 18 heures 30](datetime)
-- [demain à 17 heures](datetime)
-- [demain à 15 heures](datetime)
