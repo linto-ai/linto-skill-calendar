@@ -1,24 +1,12 @@
 ##intent|calendar|fr
-- [donne](action_list) mon prochain rendez-vous
-- [donne](action_list) moi le prochain événement
+- [donne](action_list) moi mon prochain rendez-vous
+- [donne](action_list) moi mon prochain événement
 - [liste](action_list) mon prochain événement
-- [efface](action_delete) moi le prochain événement
+- [efface](action_delete) mon prochain événement
+- [efface](action_delete) le prochain rendez-vous
 - [supprime](action_delete) mon prochain rendez-vous
-- [créer](action_create) l'[événement](evenement)
-- [créer](action_create) un [événement](evenement)
-- [créer](action_create) une [visioconference](visioconference)
+- [crée](action_create) l'[événement](evenement)
+- [crée](action_create) un [événement](evenement)
+- [crée](action_create) une [visioconférence](visioconference)
 - [ajoute](action_create) un [événement](evenement)
-- [ajoute](action_create) une [visioconference](visioconference)
-- [dans 7 heure](datetime)
-- [dans 3 heure](datetime)
-- [5 heure](datetime)
-- [8 heure](datetime)
-- [dans 2 jour à 18 heure 30](datetime)
-- [dans 4 jour à 15 heure 45](datetime)
-- [demain à 18 heure 30](datetime)
-- [demain à 17 heure](datetime)
-- [demain à 15 heure](datetime)
-##intent|calendar|en
-- [donne](action_list) mon prochain rendez-vous
-- [donne](action_list) moi le prochain événement
-- [liste](action_list) mon prochain événement
+- [ajoute](action_create) une [visioconférence](visioconference)
